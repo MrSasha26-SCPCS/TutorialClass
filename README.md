@@ -1,4 +1,4 @@
-# TutorialClass (v1.0)
+# TutorialClass (v1.1)
 SCP: Classified Site plugin
 
 Добавляет в игру новый игровой класс - Обучение (как в SCP: SL).
